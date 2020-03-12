@@ -1,0 +1,12 @@
+samples: 
+  test1: bigwigs/test1.bw
+
+Name: 
+  test1: test1
+
+matparams: reference-point --referencePoint center -b 5000 -a 5000 --skipZeros
+
+bedPath: test1_summits.bed
+
+heatmap_params: ""
+
