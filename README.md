@@ -3,6 +3,7 @@ Snakemake pipeline that creates heatmaps using deeptools for scores associated w
 
 # Before running
 In the `config.yaml` file you should include details of samples to be analyzed and parameters for obtaining the required matrix and plot using deeptools. Refer deeptools documentation for further details.(https://deeptools.readthedocs.io/en/develop/content/tools/plotHeatmap.html)
+(https://deeptools.readthedocs.io/en/develop/content/tools/computeMatrix.html)
 
 
 ### Dependiencies
